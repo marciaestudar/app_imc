@@ -9,7 +9,7 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+##import plotly.express as px##
 from datetime import datetime
 
 class CalculadoraIMC:
